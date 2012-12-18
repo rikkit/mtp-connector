@@ -1,0 +1,12 @@
+*.suo
+*.user
+*.mdf
+*.ldf
+bin
+*/bin
+obj
+*/obj
+_ReSharper.WPScrobbler
+*.ncrunchsolution
+/packages
+/*.DotSettings
